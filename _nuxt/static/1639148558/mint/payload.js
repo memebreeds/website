@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/mint", {data:[{}],fetch:{},mutations:void 0});
